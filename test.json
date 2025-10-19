@@ -1,0 +1,30 @@
+[
+    {
+        "motion": "1",
+        "temperature": "23.7",
+        "voltage vent": "220.3",
+        "number": "23",
+        "time": "2025-10-19 15:20:05.271921"
+    },
+    {
+        "motion": "0",
+        "temperature": "23.8",
+        "voltage vent": "220.4",
+        "number": "23",
+        "time": "2025-10-19 15:20:10.278512"
+    },
+    {
+        "motion": "1",
+        "temperature": "23.9",
+        "voltage vent": "220.6",
+        "number": "23",
+        "time": "2025-10-19 15:20:15.283641"
+    },
+    {
+        "motion": "0",
+        "temperature": "24.0",
+        "voltage vent": "220.5",
+        "number": "23",
+        "time": "2025-10-19 15:20:20.289342"
+    }
+]

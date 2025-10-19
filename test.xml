@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<item>
+    <motion>1</motion>
+    <temperature>23.7</temperature>
+    <voltage_vent>220.3</voltage_vent>
+    <number>23</number>
+    <time>2025-10-19 15:20:05.271921</time>
+</item>
+<item>
+    <motion>0</motion>
+    <temperature>23.8</temperature>
+    <voltage_vent>220.4</voltage_vent>
+    <number>23</number>
+    <time>2025-10-19 15:20:10.278512</time>
+</item>
+<item>
+    <motion>1</motion>
+    <temperature>23.9</temperature>
+    <voltage_vent>220.6</voltage_vent>
+    <number>23</number>
+    <time>2025-10-19 15:20:15.283641</time>
+</item>
+<item>
+    <motion>0</motion>
+    <temperature>24.0</temperature>
+    <voltage_vent>220.5</voltage_vent>
+    <number>23</number>
+    <time>2025-10-19 15:20:20.289342</time>
+</item>
+</data>
